@@ -1,0 +1,2 @@
+# debatecore
+Approachable debating.
